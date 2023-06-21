@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BcfxWSPVg7YSs58GFsOVelsigHbRsuxXVNsxV7w7URP0cd6tCACavDkBDNouPp+8EtMsIuu98OA3DsFZd5sg==",
+  "dgSpecHash": "qr6LJDULrd9qmRjlV/I1LXnNPlyOP9iYrPt17dxDudYtVcETU/gYNHkSDaZ2pqeH4C9cGlLMgnUzG63mt8FAyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementExercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/Selection-Statements-Exercise/SelectionStatementExercise/SelectionStatementExercise.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
